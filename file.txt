@@ -1,5 +1,5 @@
-line 1
-line 2
+line 1 master change
+line 2 master change
 line 3
 line 4
 line 5
