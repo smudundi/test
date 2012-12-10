@@ -1,9 +1,9 @@
 line 1
-line 2
+line 2 branch change
 line 3
 line 4
 line 5
-line 6
+line 6 branch change
 line 7
 line 8
 line 9
